@@ -4,9 +4,10 @@ This a project on a Financial Analysis of consumer complaints of Financial Produ
 # About the Dataset
 
 Link to Dataset::::: https://www.kaggle.com/datasets/kaggle/us-consumer-finance-complaints  
-About Dataset Each week the CFPB sends thousands of consumers’ complaints about financial products and services to companies for response.  
+Each week the CFPB sends thousands of consumers’ complaints about financial products and services to companies for response.  
 Those complaints are published here after the company responds or after 15 days, whichever comes first.  
 By adding their voice, consumers help improve the financial marketplace.  
+The dataset has over 500,000 complaints.  
 Using Tableau I'm going to draw out some insights and answer questions that am interested in.
 
 
