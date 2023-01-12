@@ -1,5 +1,5 @@
 # US-Consumer-Finance-Complaints-Analysis
-This a project on a Financial Analysis of consumer complaints of Financial Products
+This is a Financial Analysis project of consumer complaints of Financial Products
 
 # About the Dataset
 
